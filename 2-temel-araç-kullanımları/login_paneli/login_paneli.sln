@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login_paneli", "login_paneli\login_paneli.csproj", "{BCF38E24-268C-4007-8BE7-C5BF1367FAA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF38E24-268C-4007-8BE7-C5BF1367FAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF38E24-268C-4007-8BE7-C5BF1367FAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF38E24-268C-4007-8BE7-C5BF1367FAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF38E24-268C-4007-8BE7-C5BF1367FAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {348B83B9-B0DA-4716-9B42-57A344CE6047}
+	EndGlobalSection
+EndGlobal

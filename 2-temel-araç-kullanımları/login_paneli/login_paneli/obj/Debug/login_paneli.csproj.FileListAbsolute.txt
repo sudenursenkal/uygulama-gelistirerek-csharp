@@ -1,0 +1,11 @@
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\bin\Debug\login_paneli.exe.config
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\bin\Debug\login_paneli.exe
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\bin\Debug\login_paneli.pdb
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\obj\Debug\login_paneli.csproj.AssemblyReference.cache
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\obj\Debug\login_paneli.csproj.SuggestedBindingRedirects.cache
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\obj\Debug\login_paneli.Form1.resources
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\obj\Debug\login_paneli.Properties.Resources.resources
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\obj\Debug\login_paneli.csproj.GenerateResource.cache
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\obj\Debug\login_paneli.csproj.CoreCompileInputs.cache
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\obj\Debug\login_paneli.exe
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\login_paneli\login_paneli\obj\Debug\login_paneli.pdb

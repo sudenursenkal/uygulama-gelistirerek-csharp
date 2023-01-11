@@ -1,0 +1,11 @@
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\bin\Debug\ucak_bileti_rezervasyon_sistemi.exe.config
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\bin\Debug\ucak_bileti_rezervasyon_sistemi.exe
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\bin\Debug\ucak_bileti_rezervasyon_sistemi.pdb
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.csproj.AssemblyReference.cache
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.csproj.SuggestedBindingRedirects.cache
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.Form1.resources
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.Properties.Resources.resources
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.csproj.GenerateResource.cache
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.csproj.CoreCompileInputs.cache
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.exe
+D:\sude's\c#\uygulama-geliştirerek-c#\2-temel-araç-kullanımları\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.pdb
